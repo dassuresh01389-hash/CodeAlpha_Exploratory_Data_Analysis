@@ -2,8 +2,8 @@
 # PROJECT: Exploratory Data Analysis (EDA) - Titanic Dataset
 # INTERNSHIP: CodeAlpha Data Analytics
 # TASK: Task 2 - Exploratory Data Analysis (EDA)
-# AUTHOR: [Your Name]
-# DATE: [Current Date]
+# AUTHOR: Suresh Das
+# DATE: 08/10/26
 # =====================================================================
 
 # ---------------------------------------------------------------------
